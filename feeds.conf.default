@@ -11,3 +11,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git kenzo https://github.com/V2RaySSR/openwrt-packages
 src-git small https://github.com/V2RaySSR/small
+#src-git lienol https://github.com/Lienol/openwrt-package
